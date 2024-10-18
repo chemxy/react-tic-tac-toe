@@ -1,5 +1,5 @@
 body {
-    background-color: #6A9C89;
+    background-color: #F5F5F7;
 }
 
 .canvas {
@@ -9,7 +9,7 @@ body {
     top: 15vh;
     margin: auto;
     position: relative;
-    background-color: #6A9C89;
+    background-color: transparent;
 }
 
 .cell {
