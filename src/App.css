@@ -18,4 +18,8 @@ body {
     height: 300px;
     width: 300px;
     position: relative;
+    font-size: 100px;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
